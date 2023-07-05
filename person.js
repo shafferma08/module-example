@@ -10,7 +10,7 @@ export default class Person { // Exporting a Person class as the default export
   }
 }
 
-/* Additional Notes
+/* Additional Notes...
 
 The class keyword creates a new class with the name Person. Inside this class, we have a constructor method and an introduce method.
 
