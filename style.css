@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif; /* Set font for body */
+}
+
+#peopleContainer {
+  margin-top: 1em; /* Add margin at the top of the people container */
+}
+
+.person {
+  border: 1px solid #000; /* Add a border for each person div */
+  margin-bottom: 1em; /* Add margin at the bottom of each person div */
+  padding: 1em; /* Add padding inside each person div */
+}
